@@ -1,0 +1,2 @@
+muyerda WEBuchun pagelar joylshgan
+http://localhost:3000/web_page/ "WEB pagelar shu yolbilan ochiladi"
